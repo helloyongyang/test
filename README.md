@@ -25,14 +25,14 @@
 
 > 这是引用
 
-引入代码'some codes'
+引入代码`some codes`
 
 引入代码段
 
-'''
+```
 hello
 yongyang
-'''
+```
 
 ##### 五级标题
 
